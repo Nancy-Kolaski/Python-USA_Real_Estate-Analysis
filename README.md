@@ -35,4 +35,6 @@ The codes used for this analysis are all recorded in jupyter notebooks, located 
 
 ## Resources 
 https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+
+## Tableau Link 
 https://public.tableau.com/shared/4H7DHWB3H?:display_count=n&:origin=viz_share_link
