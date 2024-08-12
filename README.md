@@ -33,8 +33,8 @@ The following python libraries were used for this project
 ## Executing the code
 The codes used for this analysis are all recorded in jupyter notebooks, located under 'scripts' folder.
 
-## Resources 
+## Resources/Data set  
 https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 
-## Tableau Link 
+## Tableau Link - note: This storyboard doesn’t contain every step I took as part of the analysis. Only those relevant to the final results were included.
 https://public.tableau.com/shared/4H7DHWB3H?:display_count=n&:origin=viz_share_link
